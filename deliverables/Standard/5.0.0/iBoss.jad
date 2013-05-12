@@ -1,0 +1,28 @@
+Manifest-Version: 1.0
+MIDlet-Version: 1.01
+MIDlet-Jar-Size: 597811
+RIM-COD-URL-4: iBoss-4.cod
+RIM-COD-SHA1-4: 59 c6 57 6a 34 d4 2a 64 e8 5e 35 c9 f8 72 eb b9 45 1d b2 19
+RIM-COD-URL-3: iBoss-3.cod
+RIM-COD-SHA1-3: 59 9d b3 0c af 33 11 d7 36 fd d1 dd cc 0d 83 0c 0f c3 92 61
+RIM-COD-URL-2: iBoss-2.cod
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Jar-URL: iBossR.jar
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bbapi_browser,net_rim_os,net_rim_ui_api
+RIM-COD-SHA1-2: 74 91 88 71 5f f8 52 96 6e 5d 45 9f 26 50 3d 31 d4 8b 6c 95
+RIM-COD-URL-1: iBoss-1.cod
+RIM-COD-Size-4: 68968
+RIM-COD-SHA1-1: 7b 23 55 9b c0 ad 65 f3 99 27 dc 5e 36 15 4c 2f 66 42 61 ff
+RIM-COD-Size-3: 58084
+RIM-COD-Size-2: 57556
+RIM-MIDlet-Flags-1: 0
+RIM-COD-Size-1: 49880
+RIM-COD-Module-Name: iBoss
+MIDlet-Name: iBossR
+RIM-COD-Size: 65692
+RIM-COD-Creation-Time: 1328877069
+MIDlet-1: iBoss,53X48pxmisdata2icon.png,
+RIM-COD-URL: iBoss.cod
+RIM-COD-SHA1: b5 5a 61 f1 68 1f 50 4d 86 27 fc 06 4a c4 43 63 02 d9 9f 22
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Vendor: Bajaj Allianz

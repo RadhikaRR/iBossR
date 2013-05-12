@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="iBoss">
+		<name >
+			iBoss
+		</name>
+		<description >
+			
+		</description>
+		<version >
+			1.01
+		</version>
+		<vendor >
+			Bajaj Allianz
+		</vendor>
+		<copyright >
+			Copyright (c) 2012 Bajaj Allianz
+		</copyright>
+		<fileset Java="1.49" _blackberryVersion="[5.0.0)">
+			<directory >
+				5.0.0
+			</directory>
+			<files >
+				iBoss.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>

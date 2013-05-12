@@ -1,0 +1,9 @@
+MIDlet-Name: iBossR
+MIDlet-Version: 1.01
+MIDlet-Vendor: Bajaj Allianz
+MIDlet-Jar-URL: iBossR.jar
+MIDlet-Jar-Size: 0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: iBoss,53X48pxmisdata2icon.png,
+RIM-MIDlet-Flags-1: 0
